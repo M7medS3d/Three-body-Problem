@@ -1,3 +1,5 @@
+# This Code simulates the motion of Jupiter and earth with respect to sun (at center). 
+
 npoints=1000000;
 dt = 0.0001; % time step in years.
 M_s=2e30; % Mass of the Sun in kg
